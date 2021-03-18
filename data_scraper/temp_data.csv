@@ -1,0 +1,104 @@
+match_ID,team_1,team_2,team_1_score,team_2_score,match_type
+match_0,ENCE,Vitality,2,0,bo3
+match_1,NIP,mousesports,2,1,bo3
+match_2,G2,FaZe,2,0,bo3
+match_3,R!OT,eetswa,19,17,bo1
+match_4,ONYX,Nexus,2,1,bo3
+match_5,NASR,Princesses,16,0,bo1
+match_6,SKADE,FATE,2,0,bo3
+match_7,Simplicity,Power Rangers,16,14,bo1
+match_8,Dire Wolves,Animal Squad,16,7,bo1
+match_9,D13,Newhappy,2,0,bo3
+match_10,ImPerium,The Commission,2,1,bo3
+match_11,Rebirth,Secret Club,2,0,bo3
+match_12,RBG,Third Impact,2,0,bo3
+match_13,Triumph,Recon 5,2,0,bo3
+match_14,Oceanus,SKDC,2,0,bo3
+match_15,Extra Salt,Mythic,2,0,bo3
+match_16,HellRaisers,FATE,2,1,bo3
+match_17,Winstrike,Singularity,2,1,bo3
+match_18,Sangal,AGO,2,1,bo3
+match_19,eXploit,Case,2,1,bo3
+match_20,PACT,Nexus,2,0,bo3
+match_21,ENCE,Vitality,2,0,bo3
+match_22,GTZ Bulls,OFFSET,2,1,bo3
+match_23,forZe,GamerLegion,2,0,bo3
+match_24,Nemiga,Anonymo,2,0,bo3
+match_25,plan-B,ttc,2,1,bo3
+match_26,NIP,mousesports,2,1,bo3
+match_27,OFFSET,Case,2,1,bo3
+match_28,GTZ Bulls,eXploit,2,0,bo3
+match_29,ALTERNATE aTTaX,Ambush,2,0,bo3
+match_30,G2,FaZe,2,0,bo3
+match_31,LDLC,UMX,2,0,bo3
+match_32,Paradox,Dire Wolves,2,1,bo3
+match_33,UMX,ALTERNATE aTTaX,2,1,bo3
+match_34,VERTEX,Dynasty,2,0,bo3
+match_35,LDLC,Ambush,2,0,bo3
+match_36,Sylyx,Rooster,1,0,
+match_37,Secret Club,Third Impact,2,1,bo3
+match_38,Triumph,The Commission,2,1,bo3
+match_39,Rise,Watch This,2,1,bo3
+match_40,Rebirth,Levitate,2,0,bo3
+match_41,High Coast,Recon 5,2,0,bo3
+match_42,GGPR,Eclipse,2,0,bo3
+match_43,plan-B,PENTA,2,1,bo3
+match_44,Nemiga,Sangal,2,1,bo3
+match_45,Wisla Krakow,Izako Boars,2,1,bo3
+match_46,HONORIS,Illuminar,2,1,bo3
+match_47,AGO,PACT,2,0,bo3
+match_48,Sprout,ALTERNATE aTTaX,2,0,bo3
+match_49,Apeks,HellRaisers,2,0,bo3
+match_50,LDLC,Nexus,2,0,bo3
+match_51,SAW,GamerLegion,2,0,bo3
+match_52,ttc,plan-B,2,1,bo3
+match_53,PENTA,Entropy,2,0,bo3
+match_54,HONORIS,Wisla Krakow,2,1,bo3
+match_55,Illuminar,Izako Boars,2,0,bo3
+match_56,Galaxy Racer,Young Ninjas,2,1,bo3
+match_57,KOVA,Lilmix,2,1,bo3
+match_58,VERTEX,Simplicity,2,1,bo3
+match_59,Young Ninjas,KOVA,2,1,bo3
+match_60,Chiefs,Animal Squad,2,0,bo3
+match_61,Galaxy Racer,Lilmix,2,0,bo3
+match_62,Recon 5,Levitate,2,0,bo3
+match_63,High Coast,Third Impact,2,1,bo3
+match_64,Extra Salt,GGPR,2,0,bo3
+match_65,Triumph,RBG,2,0,bo3
+match_66,Paquetá,Isurus,2,0,bo3
+match_67,LDLC,DBL PONEY,2,0,bo3
+match_68,VOYVODA,EC Brugge,2,1,bo3
+match_69,Vitality,mousesports,2,0,bo3
+match_70,SAW,Singularity,2,0,bo3
+match_71,Nemiga,PACT,2,0,bo3
+match_72,Nordavind,BLINK,2,0,bo3
+match_73,Sprout,Nexus,2,0,bo3
+match_74,plan-B,PENTA,2,0,bo3
+match_75,ENCE,G2,2,1,bo3
+match_76,DBL PONEY,TheDice,2,0,bo3
+match_77,BLINK,VOYVODA,2,0,bo3
+match_78,Nordavind,EC Brugge,2,0,bo3
+match_79,NIP,FaZe,2,0,bo3
+match_80,Trident,GROND,2,0,bo3
+match_81,K23,100PG,2,0,bo3
+match_82,Paradox,Bizarre,16,9,bo1
+match_83,100PG,GROND,2,1,bo3
+match_84,ORDER,Caught off Guard,16,3,bo1
+match_85,K23,Trident,2,0,bo3
+match_86,Chiefs,VERTEX,16,9,bo1
+match_87,Leviatan,Stone,2,0,bo3
+match_88,Triumph,ImPerium,2,0,bo3
+match_89,Extra Salt,paiN,3,0,bo5
+match_90,Stone,New Pampas,2,1,bo3
+match_91,Ambush,GROND,2,1,bo3
+match_92,Lilmix,Tutsis Angels,2,1,bo3
+match_93,Pompa,Illuminar,2,1,bo3
+match_94,Leviatan,Rebirth,2,0,bo3
+match_95,Tricked,AGF,2,0,bo3
+match_96,forZe,GLADIATORS,2,1,bo3
+match_97,Sinners,Entropiq,2,1,bo3
+match_98,BLINK,EAGLES,3,0,bo5
+match_99,Imperial,Sharks,3,1,bo5
+match_100,Project X,EC Brugge,2,1,bo3
+match_101,G2,Vitality,2,0,bo3
+match_102,Lilmix,Brandbergen Shooters,2,0,bo3
